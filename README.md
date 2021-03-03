@@ -15,3 +15,8 @@ git commit {file_name} -m "a message": to commit the changes
 
 git push: upload files to git and github
 
+git checkout -b {branch_name}: to create or move from one branch to another
+
+
+## local development
+1. open index.html in your browser.
